@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block title %}Coffee Scraper - Últimos precios{% endblock %}
+{% block content %}
+
+<h1 class="mb-4">Últimos precios scrapeados</h1>
+
+<form method="get" class="row g-2 mb-4">
+  <div class="col-md-4">
+    <input
+      type="text"
+      name="product"
+      class="form-control"
+      placeholder="Producto"
+      value="{{ product }}"
+    >
+  </div>
+
+  <div class="col-md-3">
+    <select name="source" class="form-select">
+      <option value="">Todas las fuentes</option>
+      {% for s in sources %}
+        <option value="{{ s }}" {% if s == source %}selected{% endif %}>
+          {{ s }}
+        </option>
+      {% endfor %}
+    </select>
+  </div>
+
+  <div class="col-md-3">
+    <input
+      type="date"
+      name="date"
+      class="form-control"
+      value="{{ date }}"
+    >
+  </div>
+
+  <div class="col-md-2 d-grid">
+    <button class="btn btn-primary">Filtrar</button>
+  </div>
+</form>
+
+<div class="d-flex gap-2 mb-3">
+  <a href="/api/export?format=csv" class="btn btn-outline-secondary btn-sm">Descargar CSV</a>
+  <a href="/api/export?format=xlsx" class="btn btn-outline-secondary btn-sm">Descargar Excel</a>
+  <a href="/api/export?format=json" class="btn btn-outline-secondary btn-sm">Descargar JSON</a>
+</div>
+
+<table class="table table-striped table-hover align-middle">
+  <thead class="table-dark">
+    <tr>
+      <th>Producto</th>
+      <th>Precio</th>
+      <th>Fuente</th>
+      <th>Fecha</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% if prices %}
+      {% for p in prices %}
+      <tr>
+        <td>{{ p.product_name }}</td>
+        <td>${{ "%.2f"|format(p.price) }}</td>
+        <td>{{ p.source }}</td>
+        <td>{{ p.scraped_at }}</td>
+        <td>
+          <a href="{{ url_for('chart', product=p.product_name) }}"
+             class="btn btn-sm btn-outline-primary">
+            Ver gráfico
+          </a>
+        </td>
+      </tr>
+      {% endfor %}
+    {% else %}
+      <tr>
+        <td colspan="5" class="text-center text-muted">
+          No se encontraron registros.
+        </td>
+      </tr>
+    {% endif %}
+  </tbody>
+</table>
+
+{% endblock %}

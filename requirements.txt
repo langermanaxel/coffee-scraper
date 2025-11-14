@@ -4,3 +4,6 @@ pandas
 python-dotenv
 scrapy
 sqlite-utils
+Flask
+pandas
+gunicorn

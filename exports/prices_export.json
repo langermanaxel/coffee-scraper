@@ -1,0 +1,1262 @@
+[
+  {
+    "id":1,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":39000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680265"
+  },
+  {
+    "id":2,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680278"
+  },
+  {
+    "id":3,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680283"
+  },
+  {
+    "id":4,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680286"
+  },
+  {
+    "id":5,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680289"
+  },
+  {
+    "id":6,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680292"
+  },
+  {
+    "id":7,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680297"
+  },
+  {
+    "id":8,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680300"
+  },
+  {
+    "id":9,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680303"
+  },
+  {
+    "id":10,
+    "product_name":"Taza de café tango 1 u.",
+    "price":1790.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T00:47:57.680305"
+  },
+  {
+    "id":11,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870373"
+  },
+  {
+    "id":12,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":5959.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870383"
+  },
+  {
+    "id":13,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870387"
+  },
+  {
+    "id":14,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870389"
+  },
+  {
+    "id":15,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870392"
+  },
+  {
+    "id":16,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870395"
+  },
+  {
+    "id":17,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870398"
+  },
+  {
+    "id":18,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870401"
+  },
+  {
+    "id":19,
+    "product_name":"Licor Cusenier dulce de leche700 cc.",
+    "price":7409.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870404"
+  },
+  {
+    "id":20,
+    "product_name":"Espumador De Leche Ariete Negro Multifunción",
+    "price":131624.25,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T00:47:58.870407"
+  },
+  {
+    "id":21,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921199"
+  },
+  {
+    "id":22,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921208"
+  },
+  {
+    "id":23,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921212"
+  },
+  {
+    "id":24,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":1923.75,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921215"
+  },
+  {
+    "id":25,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1154.25,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921224"
+  },
+  {
+    "id":26,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921228"
+  },
+  {
+    "id":27,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921232"
+  },
+  {
+    "id":28,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921234"
+  },
+  {
+    "id":29,
+    "product_name":"Nesfit cereal sin azúcar 220 grs",
+    "price":2859.35,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921237"
+  },
+  {
+    "id":30,
+    "product_name":"Jugo de frutilla sin azúcar 500 ml.",
+    "price":3990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T00:47:59.921240"
+  },
+  {
+    "id":31,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":33000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903562"
+  },
+  {
+    "id":32,
+    "product_name":"Café molido Carrefour classic torrado 500 g.",
+    "price":9441.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903577"
+  },
+  {
+    "id":33,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903583"
+  },
+  {
+    "id":34,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903588"
+  },
+  {
+    "id":35,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903593"
+  },
+  {
+    "id":36,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903597"
+  },
+  {
+    "id":37,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903601"
+  },
+  {
+    "id":38,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903605"
+  },
+  {
+    "id":39,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903609"
+  },
+  {
+    "id":40,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-13T23:55:14.903614"
+  },
+  {
+    "id":41,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008443"
+  },
+  {
+    "id":42,
+    "product_name":"Pepitas artesanales dulce de leche",
+    "price":4090.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008452"
+  },
+  {
+    "id":43,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":6129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008456"
+  },
+  {
+    "id":44,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008459"
+  },
+  {
+    "id":45,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008462"
+  },
+  {
+    "id":46,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008464"
+  },
+  {
+    "id":47,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008467"
+  },
+  {
+    "id":48,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008470"
+  },
+  {
+    "id":49,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008472"
+  },
+  {
+    "id":50,
+    "product_name":"Leche chocolatada Carrefour 1 l.",
+    "price":2491.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-13T23:55:16.008475"
+  },
+  {
+    "id":51,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830024"
+  },
+  {
+    "id":52,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830061"
+  },
+  {
+    "id":53,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830078"
+  },
+  {
+    "id":54,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":2565.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830093"
+  },
+  {
+    "id":55,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1539.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830106"
+  },
+  {
+    "id":56,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830121"
+  },
+  {
+    "id":57,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830136"
+  },
+  {
+    "id":58,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830151"
+  },
+  {
+    "id":59,
+    "product_name":"Azúcar Ledesma molida superior bolsa 1 kg.",
+    "price":1285.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830164"
+  },
+  {
+    "id":60,
+    "product_name":"Azúcar impalpable Carrefour Classic en sobre 100 grs",
+    "price":524.21,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-13T23:55:16.830178"
+  },
+  {
+    "id":61,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":33000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002250"
+  },
+  {
+    "id":62,
+    "product_name":"Café molido Carrefour classic torrado 500 g.",
+    "price":9441.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002288"
+  },
+  {
+    "id":63,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002314"
+  },
+  {
+    "id":64,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002326"
+  },
+  {
+    "id":65,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002336"
+  },
+  {
+    "id":66,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002346"
+  },
+  {
+    "id":67,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002356"
+  },
+  {
+    "id":68,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002365"
+  },
+  {
+    "id":69,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002375"
+  },
+  {
+    "id":70,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:00:25.002386"
+  },
+  {
+    "id":71,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834114"
+  },
+  {
+    "id":72,
+    "product_name":"Pepitas artesanales dulce de leche",
+    "price":4090.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834122"
+  },
+  {
+    "id":73,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":6129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834126"
+  },
+  {
+    "id":74,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834129"
+  },
+  {
+    "id":75,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834131"
+  },
+  {
+    "id":76,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834134"
+  },
+  {
+    "id":77,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834137"
+  },
+  {
+    "id":78,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834140"
+  },
+  {
+    "id":79,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834143"
+  },
+  {
+    "id":80,
+    "product_name":"Leche chocolatada Carrefour 1 l.",
+    "price":2491.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:00:25.834145"
+  },
+  {
+    "id":81,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598274"
+  },
+  {
+    "id":82,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598293"
+  },
+  {
+    "id":83,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598301"
+  },
+  {
+    "id":84,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":2565.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598307"
+  },
+  {
+    "id":85,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1539.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598313"
+  },
+  {
+    "id":86,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598320"
+  },
+  {
+    "id":87,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598328"
+  },
+  {
+    "id":88,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598334"
+  },
+  {
+    "id":89,
+    "product_name":"Azúcar Ledesma molida superior bolsa 1 kg.",
+    "price":1285.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598341"
+  },
+  {
+    "id":90,
+    "product_name":"Azúcar impalpable Carrefour Classic en sobre 100 grs",
+    "price":524.21,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:00:26.598347"
+  },
+  {
+    "id":91,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":33000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128331"
+  },
+  {
+    "id":92,
+    "product_name":"Café molido Carrefour classic torrado 500 g.",
+    "price":9441.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128342"
+  },
+  {
+    "id":93,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128347"
+  },
+  {
+    "id":94,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128350"
+  },
+  {
+    "id":95,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128356"
+  },
+  {
+    "id":96,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128359"
+  },
+  {
+    "id":97,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128362"
+  },
+  {
+    "id":98,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128365"
+  },
+  {
+    "id":99,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128368"
+  },
+  {
+    "id":100,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:02:09.128371"
+  },
+  {
+    "id":101,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488102"
+  },
+  {
+    "id":102,
+    "product_name":"Pepitas artesanales dulce de leche",
+    "price":4090.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488111"
+  },
+  {
+    "id":103,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":6129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488116"
+  },
+  {
+    "id":104,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488119"
+  },
+  {
+    "id":105,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488122"
+  },
+  {
+    "id":106,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488125"
+  },
+  {
+    "id":107,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488128"
+  },
+  {
+    "id":108,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488131"
+  },
+  {
+    "id":109,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488133"
+  },
+  {
+    "id":110,
+    "product_name":"Leche chocolatada Carrefour 1 l.",
+    "price":2491.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:02:09.488136"
+  },
+  {
+    "id":111,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385896"
+  },
+  {
+    "id":112,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385905"
+  },
+  {
+    "id":113,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385909"
+  },
+  {
+    "id":114,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":2565.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385911"
+  },
+  {
+    "id":115,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1539.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385914"
+  },
+  {
+    "id":116,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385917"
+  },
+  {
+    "id":117,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385920"
+  },
+  {
+    "id":118,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385923"
+  },
+  {
+    "id":119,
+    "product_name":"Azúcar Ledesma molida superior bolsa 1 kg.",
+    "price":1285.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385926"
+  },
+  {
+    "id":120,
+    "product_name":"Azúcar impalpable Carrefour Classic en sobre 100 grs",
+    "price":524.21,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:02:10.385929"
+  },
+  {
+    "id":121,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":33000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795147"
+  },
+  {
+    "id":122,
+    "product_name":"Café molido Carrefour classic torrado 500 g.",
+    "price":9441.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795159"
+  },
+  {
+    "id":123,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795164"
+  },
+  {
+    "id":124,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795169"
+  },
+  {
+    "id":125,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795172"
+  },
+  {
+    "id":126,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795175"
+  },
+  {
+    "id":127,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795178"
+  },
+  {
+    "id":128,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795181"
+  },
+  {
+    "id":129,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795184"
+  },
+  {
+    "id":130,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:04:44.795187"
+  },
+  {
+    "id":131,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169734"
+  },
+  {
+    "id":132,
+    "product_name":"Pepitas artesanales dulce de leche",
+    "price":4090.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169746"
+  },
+  {
+    "id":133,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":6129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169751"
+  },
+  {
+    "id":134,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169755"
+  },
+  {
+    "id":135,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169759"
+  },
+  {
+    "id":136,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169763"
+  },
+  {
+    "id":137,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169767"
+  },
+  {
+    "id":138,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169770"
+  },
+  {
+    "id":139,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169774"
+  },
+  {
+    "id":140,
+    "product_name":"Leche chocolatada Carrefour 1 l.",
+    "price":2491.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:04:45.169778"
+  },
+  {
+    "id":141,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606204"
+  },
+  {
+    "id":142,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606216"
+  },
+  {
+    "id":143,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606221"
+  },
+  {
+    "id":144,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":2565.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606225"
+  },
+  {
+    "id":145,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1539.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606229"
+  },
+  {
+    "id":146,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606233"
+  },
+  {
+    "id":147,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606238"
+  },
+  {
+    "id":148,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606242"
+  },
+  {
+    "id":149,
+    "product_name":"Azúcar Ledesma molida superior bolsa 1 kg.",
+    "price":1285.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606246"
+  },
+  {
+    "id":150,
+    "product_name":"Azúcar impalpable Carrefour Classic en sobre 100 grs",
+    "price":524.21,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:04:45.606250"
+  },
+  {
+    "id":151,
+    "product_name":"Cafetera de Filtro Mandine MCM8616- Negra",
+    "price":33000.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064006"
+  },
+  {
+    "id":152,
+    "product_name":"Café molido Carrefour classic torrado 500 g.",
+    "price":9441.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064016"
+  },
+  {
+    "id":153,
+    "product_name":"Cápsulas de café clásico Carrefour x 16 uni",
+    "price":12039.3,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064021"
+  },
+  {
+    "id":154,
+    "product_name":"Cáfe Café martinez tostado molido suave 260 g.",
+    "price":15799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064024"
+  },
+  {
+    "id":155,
+    "product_name":"Café molido Café Martínez estilo italiano 330 g.",
+    "price":20799.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064027"
+  },
+  {
+    "id":156,
+    "product_name":"Café Torrado molido La planta de Café Cabrales 500 g.",
+    "price":12800.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064030"
+  },
+  {
+    "id":157,
+    "product_name":"Café Torrado molido La Planta de Café Cabrales 250 g.",
+    "price":6750.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064033"
+  },
+  {
+    "id":158,
+    "product_name":"Molinillo De Café Eléctrico Ariete",
+    "price":232349.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064036"
+  },
+  {
+    "id":159,
+    "product_name":"Corona café 45 cm",
+    "price":29990.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064038"
+  },
+  {
+    "id":160,
+    "product_name":"Set de café Petit Gourmet",
+    "price":6590.0,
+    "source":"Café",
+    "scraped_at":"2025-11-14T00:05:29.064041"
+  },
+  {
+    "id":161,
+    "product_name":"Arroz con leche Tegar con dulce de leche 180 g.",
+    "price":1749.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636777"
+  },
+  {
+    "id":162,
+    "product_name":"Pepitas artesanales dulce de leche",
+    "price":4090.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636816"
+  },
+  {
+    "id":163,
+    "product_name":"Leche chocolatada ​Cindor 1 lt",
+    "price":6129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636834"
+  },
+  {
+    "id":164,
+    "product_name":"Leche Chocolatada Nesquik 200 ml",
+    "price":1549.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636849"
+  },
+  {
+    "id":165,
+    "product_name":"Dulce de leche Milkaut 1 kg.",
+    "price":7129.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636864"
+  },
+  {
+    "id":166,
+    "product_name":"Espumador de leche Smartlife sl mf1700",
+    "price":74999.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636878"
+  },
+  {
+    "id":167,
+    "product_name":"Leche chocolatada ​Cindor 200 ml.",
+    "price":2139.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636892"
+  },
+  {
+    "id":168,
+    "product_name":"Yogur entero Tregar dulce de leche",
+    "price":915.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636906"
+  },
+  {
+    "id":169,
+    "product_name":"Crema de leche Ilolay 200 cc.",
+    "price":2595.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636920"
+  },
+  {
+    "id":170,
+    "product_name":"Leche chocolatada Carrefour 1 l.",
+    "price":2491.0,
+    "source":"Leche",
+    "scraped_at":"2025-11-14T00:05:29.636934"
+  },
+  {
+    "id":171,
+    "product_name":"Azúcar Ledesma light 500 g.",
+    "price":1925.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061139"
+  },
+  {
+    "id":172,
+    "product_name":"Algodón de azúcar oosh (Modelos Surtidos)",
+    "price":7990.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061151"
+  },
+  {
+    "id":173,
+    "product_name":"Azúcar mascabo Ledesma 800 g.",
+    "price":2100.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061157"
+  },
+  {
+    "id":174,
+    "product_name":"Azúcar Hileret light 500 g.",
+    "price":2565.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061161"
+  },
+  {
+    "id":175,
+    "product_name":"Azúcar Hileret light 250 g.",
+    "price":1539.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061165"
+  },
+  {
+    "id":176,
+    "product_name":"Azúcar impalpable Abucel sin tacc en bolsa 500 g.",
+    "price":2515.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061169"
+  },
+  {
+    "id":177,
+    "product_name":"Azúcar impalpable Pergola 250 g. sin TACC",
+    "price":1109.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061174"
+  },
+  {
+    "id":178,
+    "product_name":"Azúcar impalpable Dos Anclas bolsa 300 g.",
+    "price":2420.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061178"
+  },
+  {
+    "id":179,
+    "product_name":"Azúcar Ledesma molida superior bolsa 1 kg.",
+    "price":1285.0,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061182"
+  },
+  {
+    "id":180,
+    "product_name":"Azúcar impalpable Carrefour Classic en sobre 100 grs",
+    "price":524.21,
+    "source":"Azúcar",
+    "scraped_at":"2025-11-14T00:05:30.061186"
+  }
+]

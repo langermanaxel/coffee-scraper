@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}Evolución - {{ product }}{% endblock %}
+{% block content %}
+
+<h1 class="mb-4">Evolución de precios: <strong>{{ product }}</strong></h1>
+
+<canvas id="priceChart" height="120"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  fetch("/api/product/{{ product }}/history")
+    .then(r => r.json())
+    .then(data => {
+      const labels = data.map(d => d.scraped_at);
+      const values = data.map(d => d.price);
+
+      const ctx = document.getElementById("priceChart");
+      new Chart(ctx, {
+        type: "line",
+        data: {
+          labels,
+          datasets: [{
+            label: "Precio",
+            data: values,
+            borderWidth: 2,
+            tension: 0.2
+          }]
+        },
+        options: {
+          scales: {
+            x: {
+              ticks: { autoSkip: true, maxTicksLimit: 10 }
+            },
+            y: {
+              beginAtZero: false
+            }
+          }
+        }
+      });
+    })
+    .catch(err => {
+      console.error("Error cargando datos del gráfico", err);
+    });
+</script>
+
+{% endblock %}
