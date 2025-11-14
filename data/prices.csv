@@ -29,3 +29,153 @@ id,product_name,price,source,scraped_at
 28,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-13T00:47:59.921234
 29,Nesfit cereal sin azúcar 220 grs,2859.35,Azúcar,2025-11-13T00:47:59.921237
 30,Jugo de frutilla sin azúcar 500 ml.,3990.0,Azúcar,2025-11-13T00:47:59.921240
+31,Cafetera de Filtro Mandine MCM8616- Negra,33000.0,Café,2025-11-13T23:55:14.903562
+32,Café molido Carrefour classic torrado 500 g.,9441.0,Café,2025-11-13T23:55:14.903577
+33,Cápsulas de café clásico Carrefour x 16 uni,12039.3,Café,2025-11-13T23:55:14.903583
+34,Cáfe Café martinez tostado molido suave 260 g.,15799.0,Café,2025-11-13T23:55:14.903588
+35,Café molido Café Martínez estilo italiano 330 g.,20799.0,Café,2025-11-13T23:55:14.903593
+36,Café Torrado molido La planta de Café Cabrales 500 g.,12800.0,Café,2025-11-13T23:55:14.903597
+37,Café Torrado molido La Planta de Café Cabrales 250 g.,6750.0,Café,2025-11-13T23:55:14.903601
+38,Molinillo De Café Eléctrico Ariete,232349.0,Café,2025-11-13T23:55:14.903605
+39,Corona café 45 cm,29990.0,Café,2025-11-13T23:55:14.903609
+40,Set de café Petit Gourmet,6590.0,Café,2025-11-13T23:55:14.903614
+41,Arroz con leche Tegar con dulce de leche 180 g.,1749.0,Leche,2025-11-13T23:55:16.008443
+42,Pepitas artesanales dulce de leche,4090.0,Leche,2025-11-13T23:55:16.008452
+43,Leche chocolatada ​Cindor 1 lt,6129.0,Leche,2025-11-13T23:55:16.008456
+44,Leche Chocolatada Nesquik 200 ml,1549.0,Leche,2025-11-13T23:55:16.008459
+45,Dulce de leche Milkaut 1 kg.,7129.0,Leche,2025-11-13T23:55:16.008462
+46,Espumador de leche Smartlife sl mf1700,74999.0,Leche,2025-11-13T23:55:16.008464
+47,Leche chocolatada ​Cindor 200 ml.,2139.0,Leche,2025-11-13T23:55:16.008467
+48,Yogur entero Tregar dulce de leche,915.0,Leche,2025-11-13T23:55:16.008470
+49,Crema de leche Ilolay 200 cc.,2595.0,Leche,2025-11-13T23:55:16.008472
+50,Leche chocolatada Carrefour 1 l.,2491.0,Leche,2025-11-13T23:55:16.008475
+51,Azúcar Ledesma light 500 g.,1925.0,Azúcar,2025-11-13T23:55:16.830024
+52,Algodón de azúcar oosh (Modelos Surtidos),7990.0,Azúcar,2025-11-13T23:55:16.830061
+53,Azúcar mascabo Ledesma 800 g.,2100.0,Azúcar,2025-11-13T23:55:16.830078
+54,Azúcar Hileret light 500 g.,2565.0,Azúcar,2025-11-13T23:55:16.830093
+55,Azúcar Hileret light 250 g.,1539.0,Azúcar,2025-11-13T23:55:16.830106
+56,Azúcar impalpable Abucel sin tacc en bolsa 500 g.,2515.0,Azúcar,2025-11-13T23:55:16.830121
+57,Azúcar impalpable Pergola 250 g. sin TACC,1109.0,Azúcar,2025-11-13T23:55:16.830136
+58,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-13T23:55:16.830151
+59,Azúcar Ledesma molida superior bolsa 1 kg.,1285.0,Azúcar,2025-11-13T23:55:16.830164
+60,Azúcar impalpable Carrefour Classic en sobre 100 grs,524.21,Azúcar,2025-11-13T23:55:16.830178
+61,Cafetera de Filtro Mandine MCM8616- Negra,33000.0,Café,2025-11-14T00:00:25.002250
+62,Café molido Carrefour classic torrado 500 g.,9441.0,Café,2025-11-14T00:00:25.002288
+63,Cápsulas de café clásico Carrefour x 16 uni,12039.3,Café,2025-11-14T00:00:25.002314
+64,Cáfe Café martinez tostado molido suave 260 g.,15799.0,Café,2025-11-14T00:00:25.002326
+65,Café molido Café Martínez estilo italiano 330 g.,20799.0,Café,2025-11-14T00:00:25.002336
+66,Café Torrado molido La planta de Café Cabrales 500 g.,12800.0,Café,2025-11-14T00:00:25.002346
+67,Café Torrado molido La Planta de Café Cabrales 250 g.,6750.0,Café,2025-11-14T00:00:25.002356
+68,Molinillo De Café Eléctrico Ariete,232349.0,Café,2025-11-14T00:00:25.002365
+69,Corona café 45 cm,29990.0,Café,2025-11-14T00:00:25.002375
+70,Set de café Petit Gourmet,6590.0,Café,2025-11-14T00:00:25.002386
+71,Arroz con leche Tegar con dulce de leche 180 g.,1749.0,Leche,2025-11-14T00:00:25.834114
+72,Pepitas artesanales dulce de leche,4090.0,Leche,2025-11-14T00:00:25.834122
+73,Leche chocolatada ​Cindor 1 lt,6129.0,Leche,2025-11-14T00:00:25.834126
+74,Leche Chocolatada Nesquik 200 ml,1549.0,Leche,2025-11-14T00:00:25.834129
+75,Dulce de leche Milkaut 1 kg.,7129.0,Leche,2025-11-14T00:00:25.834131
+76,Espumador de leche Smartlife sl mf1700,74999.0,Leche,2025-11-14T00:00:25.834134
+77,Leche chocolatada ​Cindor 200 ml.,2139.0,Leche,2025-11-14T00:00:25.834137
+78,Yogur entero Tregar dulce de leche,915.0,Leche,2025-11-14T00:00:25.834140
+79,Crema de leche Ilolay 200 cc.,2595.0,Leche,2025-11-14T00:00:25.834143
+80,Leche chocolatada Carrefour 1 l.,2491.0,Leche,2025-11-14T00:00:25.834145
+81,Azúcar Ledesma light 500 g.,1925.0,Azúcar,2025-11-14T00:00:26.598274
+82,Algodón de azúcar oosh (Modelos Surtidos),7990.0,Azúcar,2025-11-14T00:00:26.598293
+83,Azúcar mascabo Ledesma 800 g.,2100.0,Azúcar,2025-11-14T00:00:26.598301
+84,Azúcar Hileret light 500 g.,2565.0,Azúcar,2025-11-14T00:00:26.598307
+85,Azúcar Hileret light 250 g.,1539.0,Azúcar,2025-11-14T00:00:26.598313
+86,Azúcar impalpable Abucel sin tacc en bolsa 500 g.,2515.0,Azúcar,2025-11-14T00:00:26.598320
+87,Azúcar impalpable Pergola 250 g. sin TACC,1109.0,Azúcar,2025-11-14T00:00:26.598328
+88,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-14T00:00:26.598334
+89,Azúcar Ledesma molida superior bolsa 1 kg.,1285.0,Azúcar,2025-11-14T00:00:26.598341
+90,Azúcar impalpable Carrefour Classic en sobre 100 grs,524.21,Azúcar,2025-11-14T00:00:26.598347
+91,Cafetera de Filtro Mandine MCM8616- Negra,33000.0,Café,2025-11-14T00:02:09.128331
+92,Café molido Carrefour classic torrado 500 g.,9441.0,Café,2025-11-14T00:02:09.128342
+93,Cápsulas de café clásico Carrefour x 16 uni,12039.3,Café,2025-11-14T00:02:09.128347
+94,Cáfe Café martinez tostado molido suave 260 g.,15799.0,Café,2025-11-14T00:02:09.128350
+95,Café molido Café Martínez estilo italiano 330 g.,20799.0,Café,2025-11-14T00:02:09.128356
+96,Café Torrado molido La planta de Café Cabrales 500 g.,12800.0,Café,2025-11-14T00:02:09.128359
+97,Café Torrado molido La Planta de Café Cabrales 250 g.,6750.0,Café,2025-11-14T00:02:09.128362
+98,Molinillo De Café Eléctrico Ariete,232349.0,Café,2025-11-14T00:02:09.128365
+99,Corona café 45 cm,29990.0,Café,2025-11-14T00:02:09.128368
+100,Set de café Petit Gourmet,6590.0,Café,2025-11-14T00:02:09.128371
+101,Arroz con leche Tegar con dulce de leche 180 g.,1749.0,Leche,2025-11-14T00:02:09.488102
+102,Pepitas artesanales dulce de leche,4090.0,Leche,2025-11-14T00:02:09.488111
+103,Leche chocolatada ​Cindor 1 lt,6129.0,Leche,2025-11-14T00:02:09.488116
+104,Leche Chocolatada Nesquik 200 ml,1549.0,Leche,2025-11-14T00:02:09.488119
+105,Dulce de leche Milkaut 1 kg.,7129.0,Leche,2025-11-14T00:02:09.488122
+106,Espumador de leche Smartlife sl mf1700,74999.0,Leche,2025-11-14T00:02:09.488125
+107,Leche chocolatada ​Cindor 200 ml.,2139.0,Leche,2025-11-14T00:02:09.488128
+108,Yogur entero Tregar dulce de leche,915.0,Leche,2025-11-14T00:02:09.488131
+109,Crema de leche Ilolay 200 cc.,2595.0,Leche,2025-11-14T00:02:09.488133
+110,Leche chocolatada Carrefour 1 l.,2491.0,Leche,2025-11-14T00:02:09.488136
+111,Azúcar Ledesma light 500 g.,1925.0,Azúcar,2025-11-14T00:02:10.385896
+112,Algodón de azúcar oosh (Modelos Surtidos),7990.0,Azúcar,2025-11-14T00:02:10.385905
+113,Azúcar mascabo Ledesma 800 g.,2100.0,Azúcar,2025-11-14T00:02:10.385909
+114,Azúcar Hileret light 500 g.,2565.0,Azúcar,2025-11-14T00:02:10.385911
+115,Azúcar Hileret light 250 g.,1539.0,Azúcar,2025-11-14T00:02:10.385914
+116,Azúcar impalpable Abucel sin tacc en bolsa 500 g.,2515.0,Azúcar,2025-11-14T00:02:10.385917
+117,Azúcar impalpable Pergola 250 g. sin TACC,1109.0,Azúcar,2025-11-14T00:02:10.385920
+118,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-14T00:02:10.385923
+119,Azúcar Ledesma molida superior bolsa 1 kg.,1285.0,Azúcar,2025-11-14T00:02:10.385926
+120,Azúcar impalpable Carrefour Classic en sobre 100 grs,524.21,Azúcar,2025-11-14T00:02:10.385929
+121,Cafetera de Filtro Mandine MCM8616- Negra,33000.0,Café,2025-11-14T00:04:44.795147
+122,Café molido Carrefour classic torrado 500 g.,9441.0,Café,2025-11-14T00:04:44.795159
+123,Cápsulas de café clásico Carrefour x 16 uni,12039.3,Café,2025-11-14T00:04:44.795164
+124,Cáfe Café martinez tostado molido suave 260 g.,15799.0,Café,2025-11-14T00:04:44.795169
+125,Café molido Café Martínez estilo italiano 330 g.,20799.0,Café,2025-11-14T00:04:44.795172
+126,Café Torrado molido La planta de Café Cabrales 500 g.,12800.0,Café,2025-11-14T00:04:44.795175
+127,Café Torrado molido La Planta de Café Cabrales 250 g.,6750.0,Café,2025-11-14T00:04:44.795178
+128,Molinillo De Café Eléctrico Ariete,232349.0,Café,2025-11-14T00:04:44.795181
+129,Corona café 45 cm,29990.0,Café,2025-11-14T00:04:44.795184
+130,Set de café Petit Gourmet,6590.0,Café,2025-11-14T00:04:44.795187
+131,Arroz con leche Tegar con dulce de leche 180 g.,1749.0,Leche,2025-11-14T00:04:45.169734
+132,Pepitas artesanales dulce de leche,4090.0,Leche,2025-11-14T00:04:45.169746
+133,Leche chocolatada ​Cindor 1 lt,6129.0,Leche,2025-11-14T00:04:45.169751
+134,Leche Chocolatada Nesquik 200 ml,1549.0,Leche,2025-11-14T00:04:45.169755
+135,Dulce de leche Milkaut 1 kg.,7129.0,Leche,2025-11-14T00:04:45.169759
+136,Espumador de leche Smartlife sl mf1700,74999.0,Leche,2025-11-14T00:04:45.169763
+137,Leche chocolatada ​Cindor 200 ml.,2139.0,Leche,2025-11-14T00:04:45.169767
+138,Yogur entero Tregar dulce de leche,915.0,Leche,2025-11-14T00:04:45.169770
+139,Crema de leche Ilolay 200 cc.,2595.0,Leche,2025-11-14T00:04:45.169774
+140,Leche chocolatada Carrefour 1 l.,2491.0,Leche,2025-11-14T00:04:45.169778
+141,Azúcar Ledesma light 500 g.,1925.0,Azúcar,2025-11-14T00:04:45.606204
+142,Algodón de azúcar oosh (Modelos Surtidos),7990.0,Azúcar,2025-11-14T00:04:45.606216
+143,Azúcar mascabo Ledesma 800 g.,2100.0,Azúcar,2025-11-14T00:04:45.606221
+144,Azúcar Hileret light 500 g.,2565.0,Azúcar,2025-11-14T00:04:45.606225
+145,Azúcar Hileret light 250 g.,1539.0,Azúcar,2025-11-14T00:04:45.606229
+146,Azúcar impalpable Abucel sin tacc en bolsa 500 g.,2515.0,Azúcar,2025-11-14T00:04:45.606233
+147,Azúcar impalpable Pergola 250 g. sin TACC,1109.0,Azúcar,2025-11-14T00:04:45.606238
+148,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-14T00:04:45.606242
+149,Azúcar Ledesma molida superior bolsa 1 kg.,1285.0,Azúcar,2025-11-14T00:04:45.606246
+150,Azúcar impalpable Carrefour Classic en sobre 100 grs,524.21,Azúcar,2025-11-14T00:04:45.606250
+151,Cafetera de Filtro Mandine MCM8616- Negra,33000.0,Café,2025-11-14T00:05:29.064006
+152,Café molido Carrefour classic torrado 500 g.,9441.0,Café,2025-11-14T00:05:29.064016
+153,Cápsulas de café clásico Carrefour x 16 uni,12039.3,Café,2025-11-14T00:05:29.064021
+154,Cáfe Café martinez tostado molido suave 260 g.,15799.0,Café,2025-11-14T00:05:29.064024
+155,Café molido Café Martínez estilo italiano 330 g.,20799.0,Café,2025-11-14T00:05:29.064027
+156,Café Torrado molido La planta de Café Cabrales 500 g.,12800.0,Café,2025-11-14T00:05:29.064030
+157,Café Torrado molido La Planta de Café Cabrales 250 g.,6750.0,Café,2025-11-14T00:05:29.064033
+158,Molinillo De Café Eléctrico Ariete,232349.0,Café,2025-11-14T00:05:29.064036
+159,Corona café 45 cm,29990.0,Café,2025-11-14T00:05:29.064038
+160,Set de café Petit Gourmet,6590.0,Café,2025-11-14T00:05:29.064041
+161,Arroz con leche Tegar con dulce de leche 180 g.,1749.0,Leche,2025-11-14T00:05:29.636777
+162,Pepitas artesanales dulce de leche,4090.0,Leche,2025-11-14T00:05:29.636816
+163,Leche chocolatada ​Cindor 1 lt,6129.0,Leche,2025-11-14T00:05:29.636834
+164,Leche Chocolatada Nesquik 200 ml,1549.0,Leche,2025-11-14T00:05:29.636849
+165,Dulce de leche Milkaut 1 kg.,7129.0,Leche,2025-11-14T00:05:29.636864
+166,Espumador de leche Smartlife sl mf1700,74999.0,Leche,2025-11-14T00:05:29.636878
+167,Leche chocolatada ​Cindor 200 ml.,2139.0,Leche,2025-11-14T00:05:29.636892
+168,Yogur entero Tregar dulce de leche,915.0,Leche,2025-11-14T00:05:29.636906
+169,Crema de leche Ilolay 200 cc.,2595.0,Leche,2025-11-14T00:05:29.636920
+170,Leche chocolatada Carrefour 1 l.,2491.0,Leche,2025-11-14T00:05:29.636934
+171,Azúcar Ledesma light 500 g.,1925.0,Azúcar,2025-11-14T00:05:30.061139
+172,Algodón de azúcar oosh (Modelos Surtidos),7990.0,Azúcar,2025-11-14T00:05:30.061151
+173,Azúcar mascabo Ledesma 800 g.,2100.0,Azúcar,2025-11-14T00:05:30.061157
+174,Azúcar Hileret light 500 g.,2565.0,Azúcar,2025-11-14T00:05:30.061161
+175,Azúcar Hileret light 250 g.,1539.0,Azúcar,2025-11-14T00:05:30.061165
+176,Azúcar impalpable Abucel sin tacc en bolsa 500 g.,2515.0,Azúcar,2025-11-14T00:05:30.061169
+177,Azúcar impalpable Pergola 250 g. sin TACC,1109.0,Azúcar,2025-11-14T00:05:30.061174
+178,Azúcar impalpable Dos Anclas bolsa 300 g.,2420.0,Azúcar,2025-11-14T00:05:30.061178
+179,Azúcar Ledesma molida superior bolsa 1 kg.,1285.0,Azúcar,2025-11-14T00:05:30.061182
+180,Azúcar impalpable Carrefour Classic en sobre 100 grs,524.21,Azúcar,2025-11-14T00:05:30.061186
