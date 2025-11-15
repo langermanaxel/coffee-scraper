@@ -1,4 +1,4 @@
-from scraper.scraper_bs import scrape_carrefour
+from scraper.carrefour import scrape_carrefour
 from scraper.database import init_db, insert_data
 import config
 

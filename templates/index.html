@@ -65,7 +65,7 @@
         <td>{{ p.source }}</td>
         <td>{{ p.scraped_at }}</td>
         <td>
-          <a href="{{ url_for('chart', product=p.product_name) }}"
+          <a href="{{ url_for('web.chart', product=p.product_name) }}"
              class="btn btn-sm btn-outline-primary">
             Ver gráfico
           </a>
