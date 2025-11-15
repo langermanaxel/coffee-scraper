@@ -1,39 +1,26 @@
-from scraper.database import init_db
 from scraper.scraper_bs import scrape_carrefour
-from scraper.utils import export_to_csv
-
+from scraper.database import init_db, insert_data
+import config
 
 def main():
-    print("🕸️ Iniciando scraper de precios de supermercado...")
+    print("🕸️ Iniciando scraper...")
 
-    # 1. Inicializar base de datos
-    try:
-        init_db()
-        print("📦 Base de datos inicializada correctamente.")
-    except Exception as e:
-        print(f"❌ Error al inicializar la base de datos: {e}")
+    # 1. Inicializar DB
+    init_db(config.DB_PATH)
+    print("📦 Base de datos inicializada.")
+
+    # 2. Ejecutar Scraper
+    data = scrape_carrefour()
+    if not data:
+        print("⚠️ No se encontraron datos.")
         return
+    print(f"📄 Se obtuvieron {len(data)} registros.")
 
-    # 2. Ejecutar scraping
-    try:
-        data = scrape_carrefour()
-        if not data:
-            print("⚠️ No se encontraron datos para guardar.")
-            return
-        print(f"📄 Se obtuvieron {len(data)} registros del scraping.")
-    except Exception as e:
-        print(f"❌ Error durante el scraping: {e}")
-        return
+    # 3. Guardar en la DB
+    insert_data(data, config.DB_PATH)
+    print(f"💾 Insertados {len(data)} registros.")
 
-    # 3. Exportar CSV
-    try:
-        export_to_csv(output_csv="data/prices.csv")
-        print("📁 CSV exportado correctamente.")
-    except Exception as e:
-        print(f"❌ Error al exportar CSV: {e}")
-        return
-
-    print(f"✅ Proceso finalizado. Se guardaron {len(data)} registros.")
+    print("✅ Proceso finalizado.")
 
 
 if __name__ == "__main__":
